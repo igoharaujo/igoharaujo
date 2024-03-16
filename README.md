@@ -8,7 +8,7 @@
 
 </div>
 
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+
 
 <h2 align="center">Stats do GitHub 📊</h2>
 
@@ -16,13 +16,17 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/igoharaujo/count.svg" alt="igoharaujo :: Visitor's Count" /></p>
 
-<h4 align="center">Principais linguagens 👅</h4>
+<div style="display: flex; justify-content: center;">
+    <div style="margin-right: 10px;">
+        <h4 align="center" style="margin-bottom: 10px;">Stats do Perfil 👽</h4>
+        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=igoharaujo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="igoharaujo :: Profile Stats" /></p>
+    </div>
+    <div style="margin-left: 10px;">
+        <h4 align="center" style="margin-bottom: 10px;">Principais linguagens 👅</h4>
+        <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoharaujo&theme=tokyonight&layout=compact" alt="igoharaujo :: Top Langs" /></p>
+    </div>
+</div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoharaujo&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
-
-<h4 align="center">Stats do Perfil 👽</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=igoharaujo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="AnhellO :: Profile Stats" /></p>
 
 
 
