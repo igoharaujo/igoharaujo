@@ -16,20 +16,27 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/igoharaujo/count.svg" alt="igoharaujo :: Visitor's Count" /></p>
 
-<div style="display: flex; justify-content: center;">
-    <div style="margin-right: 10px;">
-        <h4 align="center" style="margin-bottom: 10px;">Stats do Perfil 👽</h4>
-        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=igoharaujo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="igoharaujo :: Profile Stats" /></p>
-    </div>
-    <div style="margin-left: 10px;">
-        <h4 align="center" style="margin-bottom: 10px;">Principais linguagens 👅</h4>
-        <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoharaujo&theme=tokyonight&layout=compact" alt="igoharaujo :: Top Langs" /></p>
-    </div>
+
+
+
+
+
+  <div style="display: inline_block">
+  <a href="https://github.com/lucianolpsf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igoharaujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>      
+  <a href="https://github.com/lucianolpsf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoharaujo&layout=compact&size_weight=0.5&count_weight=0.5&theme=dracula"/></a>  
 </div>
 
-
-
-
-
+<div style="display: inline-block;">
+    <div style="display: inline-block; margin-right: 20px;">
+        <h4>Stats do Perfil 👽</h4>
+        <img src="https://github-readme-stats.vercel.app/api?username=igoharaujo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Stats do Perfil">
+    </div>
+    <div style="display: inline-block;">
+        <h4>Principais linguagens 👅</h4>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoharaujo&theme=tokyonight&layout=compact" alt="Principais linguagens">
+    </div>
+</div>
 
 
