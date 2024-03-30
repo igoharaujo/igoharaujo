@@ -13,7 +13,7 @@
     </p>
 </div>
 
-<h2 align="center">Stats do GitHub 📊</h2>
+<h2 align="center">Status do GitHub 📊</h2>
 
 <h4 align="center">Contagem de visitantes 👀</h4>
 
