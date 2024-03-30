@@ -20,11 +20,11 @@
 <p align="center">
     <img src="https://profile-counter.glitch.me/igoharaujo/count.svg" alt="Contagem de visitantes">
 </p>
-
+<!--
 <h4 align="center">Stats do Perfil 👽</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=igoharaujo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="AnhellO :: Profile Stats" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoharaujo&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
-
+-->
 
 
 
