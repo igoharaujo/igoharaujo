@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F80ED¢er=true&vCenter=true&width=450&lines=Hey!,+Me+Chamo+Igor!+💻...;Sou+Engenheiro+de+Dados+Júnior;Transformando+Dados+em+Valor" alt="Typing SVG" />
 </p>
 
-
   <div>
   <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW90bmRrc2I5aXZjY3p5cXBxZGtrZmJtMGZjZGhkMXpvNzc0NnFoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IUNycHoVqvLDowiiam/giphy.gif' width = 280 align = 'right'>
   </div>
