@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F80ED¢er=true&vCenter=true&width=450&lines=Os+dados+são+o+novo+petróleo...;mas+só+têm+valor+quando+refinados.+Clive+Humby;Transformando+Dados+em+Valor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F80ED¢er=true&vCenter=true&width=450&lines=Os+dados+são+o+novo+petróleo;mas+só+têm+valor+quando+refinados.+Clive+Humby;Transformando+Dados+em+Valor" alt="Typing SVG" />
 </p>
 
   <div>
