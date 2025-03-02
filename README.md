@@ -4,12 +4,6 @@
         <a href="https://br.linkedin.com/in/igor-ferreira-desenvolvedor?trk=people-guest_people_search-card">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
-        <a href="https://www.instagram.com/seu_usuario_do_instagram">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-        </a>
-        <a href="https://www.tiktok.com/@seu_usuario_do_tiktok">
-            <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-        </a>
     </p>
 </div>
 
