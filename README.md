@@ -19,12 +19,12 @@
 </p>
 
 
-<div align="center">
-    <p>
+
+  <p>
         <a href="https://br.linkedin.com/in/igor-ferreira-desenvolvedor?trk=people-guest_people_search-card">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
-    </p>
-</div>
+  </p>
+
 
     
