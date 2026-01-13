@@ -7,7 +7,7 @@
 <samp>
   <h3>Hey!</h3>
   <p>
-    Meu nome é Igor, atualmente estou cursando Análise e Desenvolvimento de Sistemas na faculdade e me especializando em Engenharia de Dados.<br><br>
+    Sou Igor, Engenharia de Dados que transforma caos em estruturas e números em decisões. Como diriaa Heráclito: "Nada é permanente, exceto a mudança” e alguém precisa modelar essa mudança.<br><br>
   </p>
   
   <h3>Linguagens e ferramentas</h3>
